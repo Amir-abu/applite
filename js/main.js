@@ -91,9 +91,9 @@ Home carousel
 $('.home__carousel').owlCarousel({
 mouseDrag: true,
 touchDrag: true,
-dots: true,
+dots: false,
 loop: true,
-autoplay: false,
+autoplay: true,
 smartSpeed: 600,
 margin: 20,
 autoHeight: true,
